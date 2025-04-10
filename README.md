@@ -1,6 +1,6 @@
-# 「04月11日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
+# 「11年04月11日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
 
-本次更新共41个可用节点，最高速度8M/S。覆盖美国、日本、新加坡、台湾等多个区域。复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
+11年04月11日本次更新共41个可用节点，最高速度8M/S。覆盖美国、日本、新加坡、台湾等多个区域。复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
 
 ## 高性价比机场推荐：[福云](https://fuuu.cloud)
 
@@ -20,7 +20,7 @@ https://clashfreenode.com/feed/v2ray-20250411.txt
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250411.yaml 
+https://clashfreenode.com/feed/clash-20250411.yaml
 
 ## 温馨提示
 
